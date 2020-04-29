@@ -263,12 +263,12 @@ header #main-navigation ul li a:hover {
 footer {
   background: #222;
   color: #777;
-  padding: 40px;
+  padding: 10px;
   text-align: center;
 
 }
 
-foote img{
+footer img   {
   display: block;
   border-radius: 5px;
   width: 80px;
